@@ -20,21 +20,21 @@ function addMergeCommit(){
 }
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+// <<<<<<< HEAD
+// <<<<<<< HEAD
 
 
 
-=======
+// =======
 function samthing(){
     
 }
->>>>>>> conflict
-=======
+// >>>>>>> conflict
+// =======
 function mergeConflict(){
     console.log("merge conflict");
     console.log("merge conflict");
     console.log("merge conflict");
     console.log("merge conflict");
 }
->>>>>>> mergeConflict
+// >>>>>>> mergeConflict
