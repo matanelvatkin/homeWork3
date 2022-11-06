@@ -20,3 +20,11 @@ function addMergeCommit(){
     console.log("merge commit");
     console.log("merge commit");
 }
+
+
+function mergeConflict(){
+    console.log("merge conflict");
+    console.log("merge conflict");
+    console.log("merge conflict");
+    console.log("merge conflict");
+}
