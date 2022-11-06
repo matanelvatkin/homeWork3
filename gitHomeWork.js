@@ -6,4 +6,11 @@ function main(){
 
 function addMergeCommit(){
     console.log("merge commit");
+    console.log("merge commit");
+    console.log("merge commit");
+    console.log("merge commit");
+    console.log("merge commit");
+    console.log("merge commit");
+    console.log("merge commit");
+    console.log("merge commit");
 }
