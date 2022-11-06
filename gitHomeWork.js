@@ -20,6 +20,12 @@ function addMergeCommit(){
 }
 
 
+<<<<<<< HEAD
 
 
 
+=======
+function samthing(){
+    
+}
+>>>>>>> conflict
