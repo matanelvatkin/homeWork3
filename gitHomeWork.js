@@ -19,22 +19,9 @@ function addMergeCommit(){
     
 }
 
-
-// <<<<<<< HEAD
-// <<<<<<< HEAD
-
-
-
-// =======
-function samthing(){
-    
-}
-// >>>>>>> conflict
-// =======
 function mergeConflict(){
     console.log("merge conflict");
     console.log("merge conflict");
     console.log("merge conflict");
     console.log("merge conflict");
 }
-// >>>>>>> mergeConflict
